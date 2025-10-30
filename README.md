@@ -30,7 +30,8 @@ pip install -r requirements.txt
 ```
 Python 3.10+ is recommended.
 
-Run the application:
+## 🧩 Usage
+▶️Run the application:
 ```bash
 uv run app.py
 ```
