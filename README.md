@@ -37,4 +37,10 @@ uv run app.py
 ```
 Then open your browser at the provided URL (usually http://127.0.0.1:8000).
 
+💼 Connect with Me
+
+👩‍💻 Melisa Mehenktaş
+[LinkedIn](https://www.linkedin.com/in/melisamehenktas)
+
+
 
